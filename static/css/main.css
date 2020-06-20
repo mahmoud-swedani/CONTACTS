@@ -100,6 +100,8 @@
     color: white;
     font-size: 18px;
     border-bottom: 3px solid var(--back);
+    position: absolute;
+    bottom:0;width:100%;
   }
   
   /* footer style ends*/
